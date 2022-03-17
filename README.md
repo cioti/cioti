@@ -9,7 +9,7 @@
 ## 💭 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 💼 Currently working on a distributed online lottery system @TheLotter.
 - 💡 Planning to increase my social presence and give back to the community.
-- ⚡ Currently learning kubernetes, devops, networking.
+- ⚡ Currently improving kubernetes, devops, networking.
 - 🕵️‍♂️ Interested in blockchain.
 
 ## 🛠️ Tech I work with
