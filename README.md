@@ -9,14 +9,14 @@
 ## 💭 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 💼 Currently working on a distributed online lottery system @TheLotter.
 - 💡 Planning to increase my social presence and give back to the community.
-- ⚡ Currently learning kubernetes.
+- ⚡ Currently learning kubernetes, devops, networking.
 - 🕵️‍♂️ Interested in blockchain.
 
 ## 🛠️ Tech I work with
 - .NET, Golang, Javascript, React
 - Docker, Kubernetes
 - Kafka, RabbitMQ
-- MSSQL, Cassandra, MongoDB, Elastic
+- MSSQL, Cassandra, MongoDB, Elastic, PostgreSQL
 
 ## 📭 You can reach out
 - [Mail](mailto:alex.ciotirla@gmail.com)
