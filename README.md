@@ -15,4 +15,3 @@
 ## 📭 You can reach out
 - [Mail](mailto:alex.ciotirla@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/alexctm/)
-- [Instagram](https://www.instagram.com/alex.ciotirla/)
